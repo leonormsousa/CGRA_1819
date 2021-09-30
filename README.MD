@@ -10,9 +10,19 @@
 
 #### Exam Grade: 18.1/20
 
-<br>
 
 ### Project 1
+
+<p float="left">
+  <img src="/deliverables/projA-t07g08-1.png" height="250">
+  <img src="/deliverables/projA-t07g08-2.png" height="250">
+  <img src="/deliverables/projA-t07g08-3.png" height="250">
+</p>
+<p float="left">
+  <img src="/deliverables/projA-t07g08-4.png" height="250">
+  <img src="/deliverables/projA-t07g08-5.png" height="250">
+</p>
+
 #### Objectives:
 - Apply the knowledge and techniques acquired to date
 - Creating a complex scene with different geometries, materials, textures and lights
@@ -22,9 +32,15 @@ The aim of this project is to create a scene that combines the different element
 
 #### Final Grade: 19.3/20
 
-<br>
 
 ### Project 2
+
+<p float="left">
+  <img src="/deliverables/projB-t7g8-1.png" height="250">
+  <img src="/deliverables/projB-t7g8-2.png" height="250">
+  <img src="/deliverables/projB-t7g8-3.png" height="250">
+</p>
+
 #### Objectives:
 - Apply the knowledge and techniques acquired to date
 - Use elements of interaction with the scene, through the keyboard and interface elements print shop
